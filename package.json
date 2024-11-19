@@ -1,0 +1,19 @@
+{
+  "name": "@avant-iconic/expo-screen-orientation-hook",
+  "version": "0.5.0",
+  "description": "Hook for expo-screen-orientation for easier usage in React Native components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hook",
+    "react",
+    "expo",
+    "react-native",
+    "orientation",
+    "screen"
+  ],
+  "author": "Markus Wagner",
+  "license": "ISC"
+}
